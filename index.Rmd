@@ -1,0 +1,20 @@
+---
+title: "Dressify-Modestly"
+image: "Images/AsmaHassan.png"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_chool target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "asma.hassan_21@greenoak.bham.sch.uk"
+output: postcards::trestles
+site: distill::distill_website
+---
+ 
+# Hijabi Fashion
+### Limited Edition
+
+Looking for trendy yet hijabi-friendly oufits can be a major problem; I know  first-hand. This website allows you to find the most elegant yet modest oufit anywhere for all occasions fancy or casual!  Being a hijabi has it's struggles; How come no  stylish fashion brand have a modest collection. I  mean, I don't see  Prada with a modest collection, but we as hijabis must make the best with what we got! And Dressify-Modestly will surely help you and give you ideas on what to wear.
+
+

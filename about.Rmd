@@ -1,10 +1,12 @@
 ---
-title: "About this site"
+title: "What Dressify-Modestly Does"
 description: |
-  Some additional details about the website
+# Dress how you want the way you want 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+On this website you will find ideas for modest fashion. You will be able to colour co-ordinate your wardrobe and find pieces that will compliment each other. 
 
+You will get ideas to put together great outfits!
